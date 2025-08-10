@@ -1,2 +1,2 @@
 #!/bin/sh
-./orchis.sh -n NatureLake -t all --tweaks macos submenu dock --shell
+./orchis.sh -n NatureLake -i default --tweaks macos submenu dock --shell
