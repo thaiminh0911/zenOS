@@ -1,0 +1,3 @@
+[submodule "GladeGrub"]
+	path = GladeGrub
+	url = https://github.com/thaiminh0911/GladeGrub
