@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./install.sh -a -n LucentIcon
+./fluent.sh -a -n LucentIcon
