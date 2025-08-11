@@ -1,6 +1,0 @@
-[submodule "GladeGrub"]
-	path = GladeGrub
-	url = https://github.com/thaiminh0911/GladeGrub
-[submodule "Deepin-icons-2022"]
-	path = Deepin-icons-2022
-	url = https://github.com/zayronxio/Deepin-icons-2022
